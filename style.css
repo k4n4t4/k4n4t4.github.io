@@ -3,3 +3,18 @@ body {
     color: #d0d0d0;
     font-family: 'Inter', 'Noto Sans JP', sans-serif;
 }
+
+
+a {
+    color: #00c0ee;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00a0ee;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #c033ee;
+}
